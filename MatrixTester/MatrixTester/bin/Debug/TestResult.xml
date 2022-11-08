@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe" total="18" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-11-15" time="21:07:39">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.4\bin" machine-name="TARAS-PC" user="Павел" user-domain="TARAS-PC" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe" executed="True" result="Success" success="True" time="0.256" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="MatrixTester" executed="True" result="Success" success="True" time="0.244" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MatrixTestCase" executed="True" result="Success" success="True" time="0.240" asserts="0">
+            <results>
+              <test-case name="MatrixTester.MatrixTestCase.Create_1x1" executed="True" result="Success" success="True" time="0.030" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Create_2x2" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Create_Copy" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Create_Null" executed="True" result="Success" success="True" time="0.094" asserts="0" />
+              <test-case name="MatrixTester.MatrixTestCase.Determinant_1x1" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MatrixTester.MatrixTestCase.Determinant_2x2" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MatrixTester.MatrixTestCase.Determinant_3x3_Eque" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="MatrixTester.MatrixTestCase.Determinant_3x3_Not_Eque" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MatrixTester.MatrixTestCase.Minor_1x1" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MatrixTester.MatrixTestCase.Minor_2x2" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+              <test-case name="MatrixTester.MatrixTestCase.Minor_3x3" executed="True" result="Success" success="True" time="0.002" asserts="9" />
+              <test-case name="MatrixTester.MatrixTestCase.Sub_1x1" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sub_2x2" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sub_3x3" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sum_1x1" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sum_2x2" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sum_3x3" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="MatrixTester.MatrixTestCase.Sum_3x3_and_2x2" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,24 @@
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe.config
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.pdb
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\bin\Debug\nunit.framework.dll
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\bin\Debug\nunit.framework.xml
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\obj\Debug\MatrixTester.exe
+C:\Users\Павел\Desktop\Лабы\Построение СУБД\Лаба 4\MatrixTester\MatrixTester\obj\Debug\MatrixTester.pdb
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe.config
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\obj\Debug\MatrixTester.exe
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\obj\Debug\MatrixTester.pdb
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\MatrixTester.pdb
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\nunit.framework.dll
+C:\Users\Павел\Desktop\Лабы\Введение в разработку ПО\Лаба 4\MatrixTester\MatrixTester\bin\Debug\nunit.framework.xml
+C:\Users\student\Downloads\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe.config
+C:\Users\student\Downloads\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe
+C:\Users\student\Downloads\MatrixTester\MatrixTester\bin\Debug\MatrixTester.pdb
+C:\Users\student\Downloads\MatrixTester\MatrixTester\bin\Debug\nunit.framework.xml
+C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csprojAssemblyReference.cache
+C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.CopyComplete
+C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.exe
+C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.pdb
