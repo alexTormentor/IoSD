@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "MatrixTester/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MatrixTester.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MatrixTester.dll": {}
+        }
+      },
+      "XUnitTestProject1/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/XUnitTestProject1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XUnitTestProject1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrixTester/1.0.0": {
+      "type": "project",
+      "path": "../MatrixTester/MatrixTester.csproj",
+      "msbuildProject": "../MatrixTester/MatrixTester.csproj"
+    },
+    "XUnitTestProject1/1.0.0": {
+      "type": "project",
+      "path": "../XUnitTestProject1/XUnitTestProject1.csproj",
+      "msbuildProject": "../XUnitTestProject1/XUnitTestProject1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "MatrixTester >= 1.0.0",
+      "XUnitTestProject1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\Nunit3\\Nunit3.csproj",
+      "projectName": "Nunit3",
+      "projectPath": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\Nunit3\\Nunit3.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\Nunit3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\MatrixTester\\MatrixTester.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\MatrixTester\\MatrixTester.csproj"
+            },
+            "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\XUnitTestProject1\\XUnitTestProject1.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\XUnitTestProject1\\XUnitTestProject1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект XUnitTestProject1 несовместим с net48 (.NETFramework,Version=v4.8). Проект XUnitTestProject1 поддерживает: netcoreapp2.1 (.NETCoreApp,Version=v2.1)",
+      "libraryId": "XUnitTestProject1",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

@@ -22,3 +22,12 @@ C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.cspr
 C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.CopyComplete
 C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.exe
 C:\Users\student\Downloads\MatrixTester\MatrixTester\obj\Debug\MatrixTester.pdb
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe.config
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\bin\Debug\MatrixTester.exe
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\bin\Debug\MatrixTester.pdb
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\bin\Debug\nunit.framework.xml
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.AssemblyReference.cache
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.CoreCompileInputs.cache
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\obj\Debug\MatrixTester.csproj.CopyComplete
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\obj\Debug\MatrixTester.exe
+D:\FileSet\GitLabs\IoSD\MatrixTester\MatrixTester\obj\Debug\MatrixTester.pdb

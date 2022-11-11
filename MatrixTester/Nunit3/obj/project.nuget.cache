@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7BHHSTfuKPI5NOYpthzfl44rbC30knnnnzp0eeHzgzBt3fwix9l8eUKb176Xe2e+txSs5XQ5SqC6W/lDaVvIQ==",
+  "success": false,
+  "projectFilePath": "D:\\FileSet\\GitLabs\\IoSD\\MatrixTester\\Nunit3\\Nunit3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект XUnitTestProject1 несовместим с net48 (.NETFramework,Version=v4.8). Проект XUnitTestProject1 поддерживает: netcoreapp2.1 (.NETCoreApp,Version=v2.1)",
+      "libraryId": "XUnitTestProject1",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}
